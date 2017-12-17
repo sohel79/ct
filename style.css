@@ -1,0 +1,220 @@
+*
+{
+margin:0px;
+padding:0px;
+}
+body{
+font-family:areal;
+font-size:14px;
+line-height:18px;
+color:black;
+background-image:url(imag/bag.jpgeee); 
+}
+.page-wrap
+{
+width:960px;
+background:#ddd;
+margin:0 auto;
+
+}
+.header
+{
+overflow:hidden;
+clear:both;
+background-color:black;
+
+
+}
+
+.nevsection {
+	background: gray;
+	overflow: hidden;
+	width: 600px;
+	float: right;
+}
+
+.nevsection ul 
+{
+overflow:hidden;
+float:left;
+}
+.nevsection ul 
+{
+list-style:none;
+}
+.nevsection ul li {
+	display: block;
+	float: right;
+	padding: 5px;
+	margin: 2px;
+}
+.nevsection ul li a {
+	display: block;
+	background: #DEDE8D;
+	border: 1px solid #ddd;
+	text-decoration: none;
+	padding: 5px 10px;
+	margin: 5px;
+	font-size: 16px;
+	color: ;
+}
+.nevsection ul li a:hover
+{
+background:white;
+color:black;
+
+}
+.contensection
+{
+width:500px;
+height:auto;;
+}
+.contensection h2 {
+	font-size: 40px;
+	color: black;
+	margin: 6px;
+	margin-bottom: 8px;
+	padding: 15px;
+}
+.contensection hr
+{
+width:950px;
+margin:3px;
+
+}
+
+.maincontent {
+	overflow: hidden;
+	width: 940px;
+	
+	margin: 6px;
+	padding: 5px;
+}
+.maincontent h4 {
+	margin-left: 230px;
+	font-size: 22px;
+	color:navy;
+}
+.maincontent img {
+	height: 184px;
+	width: 202px;
+	float: left;
+	
+}
+.maincontent2 img {
+	height: 184px;
+	width: 202px;
+	float: left;
+	padding: 8px;
+}
+.maincontent3 img {
+	height: 184px;
+	width: 202px;
+	float: left;
+	padding: 8px;
+}
+.maincontent p {
+	font-size: 22px;
+	line-height: 28px;
+	text-align: justify;
+	margin-left: 229px;
+	margin-top: 25px;
+}
+.maincontent2 p {
+	font-size: 18px;
+	line-height: 23px;
+	text-align: justify;
+	margin-left: 229px;
+	margin-bottom: 10px;
+}
+.button {
+	float: right;
+	color: #EA92B8;
+}
+.samepost {
+	overflow: hidden;
+	float: right;
+	width: 500px;
+	margin-right: 170px;
+	padding: 29px;
+}
+.samepost h2 {
+	margin-bottom: 10px;
+	background: #rebeccapurple;
+	padding: 6px;
+}
+.samepost img {
+	float: left;
+	width: 200px;
+	margin-right: 10px;
+	border: 2px solid white;
+}
+.samepost p {
+	font-size: 16px;
+	line-height: 22px;
+	text-align: justify;
+}
+.readmore {
+	float: right;
+	margin-bottom: 10px;
+}
+.readmore a {
+	text-decoration: none;
+	padding: 5px;
+	background: #fff;
+	border-radius: 5px;
+}
+.sidebar {
+	overflow: hidden;
+	width: 345px;
+	background: #BBB9BA;
+	float: right;
+	padding: 10px;
+	margin-top: -189px;
+}
+.sidebar .side h2 {
+	background: #F0BC3F;
+	color: white;
+	text-align: center;
+	padding: 5px;
+	border-bottom: 3px solid red;
+}
+.sidebar .side p {
+	margin: 10px;
+	line-height: 21px;
+	margin-bottom: 22px;
+}
+.cont {
+	overflow: hidden;
+	margin-left: 250px;
+	margin-top: 20px;
+	line-height: 24px;
+	font-size: 19px;
+}
+.cont p {
+	width: 613px;
+	font-size: 25px;
+	line-height: 36px;
+}
+.publication {
+	text-align: center;
+	margin-top: 70px;
+}
+.publication h2 {
+	color: red;
+	font-size: 40px;
+}
+.footer {
+    display:block;
+    clear:both;
+	height: auto;
+	background: black
+}
+.footer p
+{
+text-align:center;
+color:white;
+font-size:30px;
+padding:20px;
+
+}
